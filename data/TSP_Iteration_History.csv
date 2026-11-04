@@ -1,0 +1,23 @@
+Step,Tour_Cost_km,Delta_km,Swapped_Edge_1,Swapped_Edge_2,Status
+0,34892,0,None,None,Initial State
+1,32140,-2752,New Delhi - Chennai,Mumbai - Kolkata,Improving Swap Accepted
+2,29810,-2330,Bengaluru - Guwahati,Ahmedabad - Patna,Improving Swap Accepted
+3,27450,-2360,Jaipur - Kochi,Pune - Lucknow,Improving Swap Accepted
+4,25120,-2330,Srinagar - Bhubaneswar,Bhopal - Madurai,Improving Swap Accepted
+5,23200,-1920,Amritsar - Visakhapatnam,Chandigarh - Hyderabad,Improving Swap Accepted
+6,21540,-1660,Surat - Ranchi,Goa - Raipur,Improving Swap Accepted
+7,19980,-1560,Indore - Varanasi,Shimla - Patna,Improving Swap Accepted
+8,18640,-1340,Nagpur - Kolkata,Pune - Chennai,Improving Swap Accepted
+9,17420,-1220,Ahmedabad - Bengaluru,Mumbai - Kochi,Improving Swap Accepted
+10,16310,-1110,Jaipur - New Delhi,Chandigarh - Amritsar,Improving Swap Accepted
+11,15350,-960,Lucknow - Varanasi,Patna - Ranchi,Improving Swap Accepted
+12,14520,-830,Bhopal - Indore,Nagpur - Raipur,Improving Swap Accepted
+13,13810,-710,Hyderabad - Visakhapatnam,Bhubaneswar - Kolkata,Improving Swap Accepted
+14,13190,-620,Chennai - Bengaluru,Madurai - Kochi,Improving Swap Accepted
+15,12680,-510,Mumbai - Pune,Surat - Ahmedabad,Improving Swap Accepted
+16,12240,-440,Guwahati - Kolkata,Ranchi - Patna,Improving Swap Accepted
+17,11890,-350,Srinagar - Shimla,Chandigarh - New Delhi,Improving Swap Accepted
+18,11580,-310,Goa - Bengaluru,Kochi - Madurai,Improving Swap Accepted
+19,11340,-240,Indore - Bhopal,Nagpur - Hyderabad,Improving Swap Accepted
+20,11240,-100,Varanasi - Patna,Bhubaneswar - Visakhapatnam,Improving Swap Accepted
+21,11240,0,None,None,Converged to Local Optimum

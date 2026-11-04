@@ -1,0 +1,29 @@
+Sequence_Order,City,State,Latitude,Longitude,Next_Leg_Distance_km
+1,Srinagar,Jammu and Kashmir,34.0837,74.7973,380
+2,Amritsar,Punjab,31.6340,74.8723,225
+3,Chandigarh,Punjab/Haryana,30.7333,76.7794,110
+4,Shimla,Himachal Pradesh,31.1048,77.1734,270
+5,New Delhi,Delhi,28.6139,77.2090,240
+6,Jaipur,Rajasthan,26.9124,75.7873,530
+7,Ahmedabad,Gujarat,23.0225,72.5714,260
+8,Surat,Gujarat,21.1702,72.8311,280
+9,Mumbai,Maharashtra,19.0760,72.8777,150
+10,Pune,Maharashtra,18.5204,73.8567,360
+11,Goa (Panaji),Goa,15.4909,73.8278,560
+12,Kochi,Kerala,9.9312,76.2673,210
+13,Madurai,Tamil Nadu,9.9252,78.1198,340
+14,Bengaluru,Karnataka,12.9716,77.5946,290
+15,Chennai,Tamil Nadu,13.0827,80.2707,510
+16,Hyderabad,Telangana,17.3850,78.4867,500
+17,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,390
+18,Bhubaneswar,Odisha,20.2961,85.8245,360
+19,Kolkata,West Bengal,22.5726,88.3639,530
+20,Guwahati,Assam,26.1445,91.7362,560
+21,Ranchi,Jharkhand,23.3441,85.3096,250
+22,Patna,Bihar,25.5941,85.1376,215
+23,Varanasi,Uttar Pradesh,25.3176,82.9739,285
+24,Lucknow,Uttar Pradesh,26.8467,80.9462,340
+25,Raipur,Chhattisgarh,21.2514,81.6296,270
+26,Nagpur,Maharashtra,21.1458,79.0882,310
+27,Bhopal,Madhya Pradesh,23.2599,77.4126,170
+28,Indore,Madhya Pradesh,22.7196,75.8577,665

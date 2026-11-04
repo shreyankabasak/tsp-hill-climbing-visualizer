@@ -1,0 +1,5 @@
+Corridor,Cities_Count,Initial_Distance_km,Final_Distance_km,Distance_Saved_km,Improvement_Percent,Swaps_Accepted,Neighborhood_Evaluations,Runtime_ms
+All 28 Major Cities,28,34892,11240,23652,67.8%,34,12852,14.2
+Top 8 Metros,8,9840,4890,4950,50.3%,9,252,1.8
+North & East Corridor,15,18920,7410,11510,60.8%,18,1890,5.4
+South & West Corridor,15,19450,7120,12330,63.3%,19,1995,5.9
