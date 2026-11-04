@@ -3,7 +3,7 @@
 An interactive animated visualization tool analyzing the Traveling Salesperson Problem (TSP) using Hill Climbing (Local Search) with 2-opt edge exchanges across 28 major Indian transport hubs. Distances are computed using the geodesic spherical Haversine formula in kilometers.
 
 ## 🚀 Live Demo
-- **Vercel Deployment:** [YOUR_VERCEL_LINK_WILL_GO_HERE]
+- **Vercel Deployment:** https://tsp-hill-climbing-visualizer.vercel.app/
 
 ## 📌 Problem & Search Formulation
 - **State Space ($S$):** Complete cyclic Hamiltonian permutation connecting all selected cities.
